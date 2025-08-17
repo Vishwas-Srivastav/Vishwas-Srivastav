@@ -1,5 +1,3 @@
-<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/fa79d04b-5f0c-41bf-b84d-0c6d1a4fafc2" />
-
 ## Hi there 👋
 
 I’m Vishwas Srivastav, a Software Professional based in India.
