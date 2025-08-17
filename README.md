@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Vishwas Srivastav, a software professional based in India.
+I’m Vishwas Srivastav, a Software Professional based in India.
 
 I have a strong interest in **Salesforce development, automation, and cloud technologies.** I enjoy solving technical challenges, building scalable solutions, and continuously improving my skills across both development and business domains.
 
